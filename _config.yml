@@ -1,0 +1,28 @@
+name: commercial reel
+favicon: null
+layout_spectrum: 0.5122775558847934
+typography_spectrum: 0.19828282203525305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9978136967401952
+  lightness: 0.4378509004600346
+  saturation: 0.45205954858101904
+  rhythmicContrast: 0.7060921501833946
+purpose: []
